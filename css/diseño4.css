@@ -1,0 +1,201 @@
+#contenedor{
+
+width: 1000px;
+height: auto;
+margin: auto;
+position: relative;
+
+
+}
+
+body {
+
+
+	background-image: url(../img/fondo2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+ 
+ h2{
+
+ 	font-family: verdana;
+   color:rgba(05,05,255,05);
+   margin-left: 20px;
+   font-size: 30px;
+   text-align: center;
+   margin-right: 20px;
+}
+
+h3{
+   font-family: verdana;
+   color:white;
+   margin-left: 16px;
+   font-size: 20px;
+   text-align: right;
+   margin-right: 30px;
+}
+
+header {
+
+	width: 1000px;
+	height: 300px;
+}
+
+nav{
+
+	width: 985px;
+	height: 40px;
+	background: #F0B429;
+	border: solid;
+	border-color:#F0B429;
+	
+	border-top-right-radius: 0;
+	border-top-left-radius-radius: 0;
+
+}
+	
+	
+
+iframe{
+margin-top:75px;
+margin-left: 613px;
+margin-right: 700px;
+}
+ 
+
+ul{
+
+	margin:auto;
+	padding-top: 4px;
+
+}
+
+li{
+
+	float: left;
+	list-style-type: none;
+	padding: 2px;
+	margin: 4px;
+
+}
+
+a{
+
+	text-decoration: none;
+	font-size: 20px;
+	color:#005883;
+	margin-left: 60px;
+	
+}
+
+
+
+
+section{
+
+
+    width:985px;
+    background-image: url(../img/fondo3.png);
+    height: 600px;
+    background-repeat: no-repeat;
+	background-size: cover;
+    
+	border-top-right-radius: 0;
+	border-top-left-radius-radius: 0;
+
+}
+
+footer{
+	width:985px;
+	height: 100px;
+    background: #005883;
+    float: left;
+    margin-top: 20px;
+    border-radius: 20px;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	margin-bottom: 20px
+}
+
+
+
+
+
+#lucero{
+
+
+margin-top:10px;
+margin-left: 61px;
+margin-right: 100px;
+
+}
+#cesar{
+
+	margin-top:10px;
+margin-left: 30px;
+margin-right: 90px;
+
+}
+p{   
+
+    font-family: verdana;
+	height: 150px;
+	height: 150px;
+    background: #fff;
+    left:400px;
+    border-radius: 50px;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	margin-bottom: 10px
+	color: rgba(255,255,255,255);
+	font-weight: bold;
+
+
+}
+
+p{   
+
+     float: left;
+    font-family: verdana;
+	height: 150px;
+	height: 150px;
+    background: #fff;
+    left:400px;
+    border-radius: 50px;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	margin-bottom: 10px
+	color: rgba(255,255,255,255);
+	font-weight: bold;
+
+
+}
+
+p{   
+
+     float: left;
+    font-family: verdana;
+	height: 150px;
+	width:300px;
+	height: 150px;
+    background: #fff;
+    left:400px;
+    margin: 10px;
+    border-radius: 50px;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	margin-bottom: 10px
+	color: rgba(255,255,255,255);
+	font-weight: bold;
+
+
+}
+
+
+.Negrita{
+	color: rgba(255,255,255,255);
+	font-weight: bold;
+
+}
